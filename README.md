@@ -20,3 +20,27 @@
   <img align="center" alt="Josh-Dr" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="Josh-Cs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+```dart
+class Developer(){
+  final String username;
+  final String name;
+  final String email;
+  final List<String> socialMedia;
+  final Map<String, dynamic> code;
+  
+  Developer()
+      : username = 'JoshGodoyyy',
+        name = 'Josué Lima',
+        email = 'josueaugusto@live.com',
+        socialMedia = [
+          'https://www.instagram.com/josh_godoyyy/',
+          'https://www.linkedin.com/in/joshgodoy/',
+          'https://www.github.com/JoshGodoyyy'
+        ],
+        code = {
+        'mobile': ['Flutter'],
+        'backend': ['C#'],
+        'database': ['SQL SERVER', 'MySQL', 'SQLite', 'Firebase']
+        }
+}
