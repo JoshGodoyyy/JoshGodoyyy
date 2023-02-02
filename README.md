@@ -42,5 +42,6 @@ class Developer(){
         'mobile': ['Flutter'],
         'backend': ['C#'],
         'database': ['SQL SERVER', 'MySQL', 'SQLite', 'Firebase']
-        }
+        };
 }
+```
