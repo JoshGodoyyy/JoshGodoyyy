@@ -22,7 +22,7 @@
 </div>
 
 ```dart
-class Developer(){
+class Developer{
   final String username;
   final String name;
   final String email;
