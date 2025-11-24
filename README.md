@@ -51,7 +51,7 @@
 
 ###
 
-![snake animation](https://github.com/joshgodoyyy/joshgodoyyy/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/joshgodoyyy/joshgodoyyy/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
